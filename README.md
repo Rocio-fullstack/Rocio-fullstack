@@ -13,6 +13,19 @@ Soy una profesional comprometida, creativa y con grandes habilidades para el tra
 - **Herramientas:** Git, GitHub, Scrum, Agile
 - **Otros:** React Native, Expo
 
+## 💼 Experiencia profesional
+
+### **Full Stack Developer – Bubbo**  
+📍 Remoto · 🗓️ Nov 2024 – Mar 2025  
+(https://www.bubbo.ai)
+
+Bubbo es una app de recomendación de películas y series basada en inteligencia artificial. Como parte del equipo de desarrollo, contribuí a mejorar tanto el rendimiento técnico como la experiencia del usuario.
+
+**Funciones y logros:**
+- Desarrollo de la aplicación móvil usando **React Native**, **TypeScript** y **Expo**, optimizando así la eficiencia de la misma.
+- Mejora de la **UI/UX** para lograr una experiencia de usuario más fluida, atractiva y accesible.  
+- Trabajo colaborativo en un entorno **ágil (Scrum)**, utilizando **GitHub** para control de versiones y gestión de tareas.  
+
 ## 🧠 Habilidades blandas
 
 - Excelente comunicación y trabajo en equipo
@@ -37,6 +50,7 @@ Soy una profesional comprometida, creativa y con grandes habilidades para el tra
 ## 📫 Contacto
 
 - 📧 rociomr451@gmail.com
+- https://www.linkedin.com/in/rociomartinr/
 - 📍 A Coruña, España
 
 ---

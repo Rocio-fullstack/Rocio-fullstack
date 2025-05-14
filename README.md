@@ -26,7 +26,7 @@ Bubbo es una app de recomendación de películas y series basada en inteligencia
 - Mejora de la **UI/UX** para lograr una experiencia de usuario más fluida, atractiva y accesible.  
 - Trabajo colaborativo en un entorno **ágil (Scrum)**, utilizando **GitHub** para control de versiones y gestión de tareas.  
 
-## 🧠 Habilidades blandas
+## 🧠 Soft Skills
 
 - Excelente comunicación y trabajo en equipo
 - Alta capacidad de adaptación y aprendizaje continuo

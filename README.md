@@ -36,8 +36,9 @@ Bubbo es una app de recomendación de películas y series basada en inteligencia
 
 ## 📚 Formación
 
-- **Full Stack Developer** – 4Geeks Academy (2024)
-- **Desarrollo de aplicaciones web con JS, PHP y MySQL** – PUE Sepe (2024)
+- **Fundamento IA (7h)** – Google (2025)
+-  **Full Stack Developer (360h)** – 4Geeks Academy (2024)
+- **Desarrollo de aplicaciones web con JS, PHP y MySQL (105h)** – PUE Sepe (2024)
 - **CFGS Integración Social** – Salesianos Atocha (2008)
 
 ## 🌐 Idiomas
@@ -49,7 +50,7 @@ Bubbo es una app de recomendación de películas y series basada en inteligencia
 
 ## 📫 Contacto
 
-- 📧 rociomr451@gmail.com
+- 📧 rociomr.dev@gmail.com
 - https://www.linkedin.com/in/rociomartinr/
 - 📍 A Coruña, España
 
